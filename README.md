@@ -1,6 +1,6 @@
 # CDAL-SummerSchool
 
-Materials for the session organised by the Computational and Digital Archaeology Laboratory (CDAL) of the Department of Archaeology, Cambridge University, in the Peterhouse Archaeology Summer School (5-9/8/2019) and the [Sutton Trust Summer School](https://summerschools.suttontrust.com/) (22/8/2019). Materials were created by [Enrico R. Crema](https://www.arch.cam.ac.uk/directory/erc62), [Arnau García](https://www.arch.cam.ac.uk/directory/ag2023), [Andreas Angourakis](https://www.arch.cam.ac.uk/directory/aa2112), and [D.I. Redhouse](https://www.arch.cam.ac.uk/directory/dir21). 
+Materials for the sessions organised by the Computational and Digital Archaeology Laboratory (CDAL) of the Department of Archaeology, Cambridge University, in the Peterhouse Archaeology Summer School (5-9/8/2019) and the [Sutton Trust Summer School](https://summerschools.suttontrust.com/) (22/8/2019). Materials were created by [Enrico R. Crema](https://www.arch.cam.ac.uk/directory/erc62), [Arnau García](https://www.arch.cam.ac.uk/directory/ag2023), [Andreas Angourakis](https://www.arch.cam.ac.uk/directory/aa2112), and [D.I. Redhouse](https://www.arch.cam.ac.uk/directory/dir21). 
 
 CDAL is a group based on the McDonald Institute for Archaeological Research at the University of Cambridge (https://www.mcdonald.cam.ac.uk/).
 
