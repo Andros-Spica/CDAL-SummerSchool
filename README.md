@@ -7,7 +7,7 @@ CDAL is a group based on the McDonald Institute for Archaeological Research at t
 This exercise introduces some Geographic Information Systems (GIS) techniques used in archaeology. More specifically, it focus on visibility network and cumulative viewshed procedures available in the plugin named "Visibility Analysis" in the Quantum GIS or QGIS software.
 
 The exercise is inspired by:
-> Kay S and Sly T J T 2001 An application of cumulative viewshed analysis to a medieval archaeological study: The beacon system of the Isle of Wight, United Kingdom Archeol. e Calc. 12 167–79 Online: http://www.archcalc.cnr.it/indice/PDF12/09Kay.pdf
+> Kay S and Sly T J T 2001 An application of cumulative viewshed analysis to a medieval archaeological study: The beacon system of the Isle of Wight, United Kingdom Archeol. e Calc. 12 167–79 Online: http://www.archcalc.cnr.it/indice/PDF12/09Kay.pdf  
 (This article is included as "09Kay.pdf" under the [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/) Licence.)
 
 Download the content of this repository to your local computer and install QGIS, if not already installed (https://qgis.org/en/site/). Follow the instruction in the pdf document that better corresponds to the QGIS version installed in your computer (2.18 or 3.8). All necessary data for this exercise is inside the "data" folder.
